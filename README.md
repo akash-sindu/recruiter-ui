@@ -1,6 +1,6 @@
 # Recruiter Assistant UI
 
-React frontend for the [Recruiter Chatbot](../recruiter_chatbot/README.md). The Python backend source is available on [GitHub](https://github.com/akash-sindu/recruiter_chatbot). It accepts job descriptions as pasted text or PDF/DOCX files, displays the parsed role and evidence-based fit analysis, and streams follow-up answers from the Flask API.
+React frontend for the [Recruiter Chatbot](https://github.com/akash-sindu/recruiter_chatbot/blob/main/README.md). The Python backend source is available on [GitHub](https://github.com/akash-sindu/recruiter_chatbot). It accepts job descriptions as pasted text or PDF/DOCX files, displays the parsed role and evidence-based fit analysis, and streams follow-up answers from the Flask API.
 
 ## Prerequisites
 
